@@ -21,6 +21,7 @@
 *.md           eol=lf
 .gitignore     eol=lf
 .gitattributes eol=lf
+.htaccess      eol=lf
 *.wasm         binary
 *.stl          binary
 *.7z           binary
